@@ -1,0 +1,7 @@
+\section{Introduction to Convolutional Neural Networks} \label{sec:introductioncnn}
+
+In this section, we will go over the basic concept of convolutional neural networks (CNN). For further reference, \cite{deshpande16} provides a very informative introduction. Simply, the problem statement is the task of assigning a class or a vector class probabilities given an image as an input. The image can be represented by a group of pixels. Each pixel can be represented as a vector of values for their red, green, blue (RGB) expressions which can range from 0 to 255. For instance, a red pixel can be represented by $(255, 0, 0)$, blue is $(0,0,255)$ etc. Based on this formulation of a digital image, we can represent an image by a data cube of values. As an example, an image with $32 \times 32$ pixels is a $32 \times 32 \times 3$ data cube.  This is taken as the input for the first convolutional layer.
+
+\subsection{Convolutional Layers} \label{sec:convolayers}
+
+For simplicity, suppose we consider only the red value from the array (ie. taking only the top layer of the aforementioned data cube -  a $32 \times 32$ matrix).
