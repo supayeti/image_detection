@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{2}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -11,5 +11,12 @@ A.~{Deshpande}.
 \newblock
   \url{https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/},
   2016.
+
+\bibitem[{Zou} et~al.(2019){Zou}, {Li}, {Shi}, {Shi}, and {Ye}]{zou2019}
+Z.~{Zou}, W.~{Li}, T.~{Shi}, Z.~{Shi}, and J.~{Ye}.
+\newblock Generative adversarial training for weakly supervised cloud matting.
+\newblock In \emph{2019 IEEE/CVF International Conference on Computer Vision
+  (ICCV)}, pages 201--210, Oct 2019.
+\newblock \doi{10.1109/ICCV.2019.00029}.
 
 \end{thebibliography}

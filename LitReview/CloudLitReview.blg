@@ -2,45 +2,50 @@ This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: CloudLitReview.aux
 The style file: abbrvnat.bst
+Illegal, another \bibstyle command---line 23 of file CloudLitReview.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
 Database file #1: mybib.bib
-You've used 1 entry,
+You've used 2 entries,
             2773 wiz_defined-function locations,
-            597 strings with 4749 characters,
-and the built_in function-call counts, 327 in all, are:
-= -- 26
-> -- 10
-< -- 1
-+ -- 4
-- -- 3
-* -- 15
-:= -- 55
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 4
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 15
-empty$ -- 33
-format.name$ -- 4
-if$ -- 65
+            606 strings with 4991 characters,
+and the built_in function-call counts, 1055 in all, are:
+= -- 90
+> -- 58
+< -- 2
++ -- 20
+- -- 18
+* -- 76
+:= -- 158
+add.period$ -- 7
+call.type$ -- 2
+change.case$ -- 12
+chr.to.int$ -- 2
+cite$ -- 4
+duplicate$ -- 48
+empty$ -- 87
+format.name$ -- 20
+if$ -- 227
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 12
+missing$ -- 1
+newline$ -- 19
+num.names$ -- 8
+pop$ -- 30
 preamble$ -- 1
-purify$ -- 3
+purify$ -- 10
 quote$ -- 0
-skip$ -- 14
+skip$ -- 43
 stack$ -- 0
-substring$ -- 2
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 32
+swap$ -- 13
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 11
+type$ -- 22
 warning$ -- 0
-while$ -- 3
+while$ -- 8
 width$ -- 0
-write$ -- 19
+write$ -- 34
+(There was 1 error message)
